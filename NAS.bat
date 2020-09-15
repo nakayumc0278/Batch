@@ -1,8 +1,9 @@
 @echo off
 
-set VER=2.0.3
+set VER=2.0.4
 title Network Drive Adder Batch Program Ver %VER%
 
+rem これはshell:startupに入れることをおすすめします。
 rem ドライブは適時追加してください。
 rem ドライブレター指定
 set DRIVE_LETTER_1=R
