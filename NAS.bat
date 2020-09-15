@@ -1,6 +1,6 @@
 @echo off
 
-set VER=2.0.2
+set VER=2.0.3
 title Network Drive Adder Batch Program Ver %VER%
 
 rem ドライブは適時追加してください。
@@ -10,7 +10,7 @@ set DRIVE_LETTER_2=S
 set DRIVE_LETTER_3=T
 
 rem Path指定
-set PATH_1="\\192.168.1.4\cloud\"
+set PATH_1="\\192.168.1.4\cloud"
 set PATH_2="\\192.168.1.4\cloud"
 set PATH_3="\\192.168.1.4\public"
 
