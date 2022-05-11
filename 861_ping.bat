@@ -27,3 +27,4 @@ for /l %%n in (1, 1, 254) do (
     echo %ipaddress%%%n はpingできませんでした。
   )
 )
+
